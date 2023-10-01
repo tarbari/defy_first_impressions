@@ -2,7 +2,7 @@
 I am not a professional reviewer, but I got an early shipped Dygma Defy for testing about a week ago (latter half of 
 September). It is a "full specced" version, so wireless, tenting, and underglow included. These are my first 
 impressions.  
-Here is a link to my layer repository: https://github.com/tarbari/defy_layers  
+Here is a link to my layer repository: [https://github.com/tarbari/defy_layers](https://github.com/tarbari/defy_layers)  
 I have not yet written a proper README.md, but the `img/` directory contains images for reference. The `layers.json` 
 file contains my backup file.  
 The last post of this review will be a reference to the naming convention of the thumb keys.
