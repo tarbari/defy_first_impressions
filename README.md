@@ -1,5 +1,5 @@
 # Intro
-I am not a professional reviewer, but I got an early shipped Dygma Defy for testing in the latter half of September.
+I am not a professional reviewer, but I got an early shipped Dygma Defy in the latter half of September.
 It is a "full specced" version, so wireless, tenting, and underglow included. These are my first impressions.  
 You can find my layer repository here: [https://github.com/tarbari/defy_layers](https://github.com/tarbari/defy_layers)  
 I have not yet written a proper README.md, but the `img/` directory contains images for reference. Additionally, the 
