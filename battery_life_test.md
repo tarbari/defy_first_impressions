@@ -1,4 +1,4 @@
-# Battery life tests
+# Dygma Defy battery life tests
 
 ---
 
@@ -6,6 +6,7 @@
 #### Settings
 | Name               | Value |
 |--------------------|-------|
+| Mode               | RF    |
 | LED brightness     | 10%   |
 | LED timeout        | Never |
 | Layer change pulse | On    |
