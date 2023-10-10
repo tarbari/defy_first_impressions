@@ -20,5 +20,6 @@
 | 2023-10-09 | 09:00 | On    | 2/3 lights*   |
 | 2023-10-09 | 23:30 | Off   | 1/3 lights*   |
 | 2023-10-10 | 11:00 | On    | 1/3 lights*   |
+| 2023-10-10 | 23:00 | Off   | 35%           |
 
 \* Battery level percentage not available due to bug in Bazecor
