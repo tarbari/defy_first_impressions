@@ -27,3 +27,22 @@
 \* Battery level percentage not available due to bug in Bazecor
 \** Forgot to turn keeb off for the night
 
+---
+
+## Second test
+#### Settings
+| Name               | Value |
+|--------------------|-------|
+| Mode               | RF    |
+| LED brightness     | 0%*   |
+| LED timeout        | Never |
+| Layer change pulse | On    |
+| RF coverage        | Low   |
+
+\*Even when 0% brightness the LEDs did not turn off. 
+Turned all LEDs to color black, except for one key on each side to keep track of the layer I'm using.
+
+
+| Date       | Time  | Event           | Battery level |
+|------------|-------|-----------------|---------------|
+| 2023-10-12 | 14:00 | On              | 100%          |
