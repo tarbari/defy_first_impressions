@@ -46,3 +46,6 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 | Date       | Time  | Event           | Battery level |
 |------------|-------|-----------------|---------------|
 | 2023-10-12 | 14:00 | On              | 100%          |
+| 2023-10-12 | 17:00 | Off             | 90%           |
+| 2023-10-12 | 20:30 | On              | 90%           |
+
