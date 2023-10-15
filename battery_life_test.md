@@ -53,6 +53,8 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 | 2023-10-14 | 11:00 | Off             | 73%           |
 | 2023-10-14 | 22:30 | On              | 73%           |
 | 2023-10-15 | 02:30 | Off             | 71%           |
+| 2023-10-15 | 12:00 | On              | 71%           |
+| 2023-10-16 | 01:30 | Off             | 47%           |
 
 \*After this event I quickly tested reflashing keyboard with Bazecor 1.3.5 and during the about 1 minute battery went back to 100%
 
