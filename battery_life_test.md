@@ -58,6 +58,7 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 | 2023-10-16 | 12:00 | On              | 47%           |
 | 2023-10-16 | 18:00 | Off             | 37%           |
 | 2023-10-17 | 11:30 | On              | 37%           |
+| 2023-10-17 | 16:30 | Off             | 37%**         |
 
 \*After this event I quickly tested reflashing keyboard with Bazecor 1.3.5 and during the about 1 minute battery went back to 100%
-
+\** Tried re-reading the battery level, but even after powercycle it insisted 37%
