@@ -66,6 +66,6 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 | 2023-10-19 | 10:30 | On              | 27%           |
 | 2023-10-19 | 16:00 | Battery check   | 17% / 9%***   |
 
-\*After this event I quickly tested reflashing keyboard with Bazecor 1.3.5 and during the about 1 minute battery went back to 100%
+\*After this event I quickly tested reflashing keyboard with Bazecor 1.3.5 and during the about 1 minute battery went back to 100%, but I did not do a force read so this was most probably a wrong reading.
 \** Tried re-reading the battery level, but even after powercycle it insisted 37%
 \*** Righ half battery drained more than left.
