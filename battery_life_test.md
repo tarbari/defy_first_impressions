@@ -99,4 +99,6 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 |------------|-------|-----------------|---------------|
 | 2023-10-27 | 16:00 | On              | 100%          |
 | 2023-10-27 | 23:30 | Off             | 37%           |
+| 2023-10-28 | 12:30 | On              | 37%           |
+| 2023-10-29 | 01:30 | Off             | 29%           |
 
