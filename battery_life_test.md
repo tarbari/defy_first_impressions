@@ -105,5 +105,7 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 | 2023-10-29 | 01:30 | Off   | 29% / 36%\*   |
 | 2023-10-29 | 17:00 | On    | 29% / 36%\*   |
 | 2023-10-29 | 22:00 | Off   | 22% / 29%\*   |
+| 2023-10-29 | 09:00 | On    | 15% / 29%\**  |
 
 \* Left side battery first
+\** Left side drained during the night?
