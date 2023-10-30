@@ -144,4 +144,5 @@ I'm still leaving this test in
 | Date       | Time  | Event         | Battery level |
 | ---------- | ----- | ------------- | ------------- |
 | 2023-10-30 | 17:00 | On            | 100%          |
+| 2023-10-30 | 21:00 | Off           | 100%          |
 
