@@ -84,6 +84,18 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 
 ## Third test
 
+```
+It seems the battery was not fully charged when I began this test.
+
+Normally I make sure the battery is full by plugging the keyboard in wired,
+check battery level in Bazecor, force read battery level and make sure it is 
+still 100%. After this I close Bazecor, unplug Neuron, make sure the wireless 
+buttons are off, plug Neuron, start Bazecor, and read the battery levels again.
+I might have failed to do that this time.
+
+I'm still leaving this test in
+``` 
+
 #### Settings
 
 | Name               | Value |
@@ -97,15 +109,18 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 
 \* This should not affect BT connections
 
-| Date       | Time  | Event | Battery level |
-| ---------- | ----- | ----- | ------------- |
-| 2023-10-27 | 16:00 | On    | 100%          |
-| 2023-10-27 | 23:30 | Off   | 37%           |
-| 2023-10-28 | 12:30 | On    | 37%           |
-| 2023-10-29 | 01:30 | Off   | 29% / 36%\*   |
-| 2023-10-29 | 17:00 | On    | 29% / 36%\*   |
-| 2023-10-29 | 22:00 | Off   | 22% / 29%\*   |
-| 2023-10-29 | 09:00 | On    | 15% / 29%\**  |
+| Date       | Time  | Event         | Battery level |
+| ---------- | ----- | ------------- | ------------- |
+| 2023-10-27 | 16:00 | On            | 100%          |
+| 2023-10-27 | 23:30 | Off           | 37%           |
+| 2023-10-28 | 12:30 | On            | 37%           |
+| 2023-10-29 | 01:30 | Off           | 29% / 36%\*   |
+| 2023-10-29 | 17:00 | On            | 29% / 36%\*   |
+| 2023-10-29 | 22:00 | Off           | 22% / 29%\*   |
+| 2023-10-29 | 09:00 | Battery check | 15% / 29%\**  |
+
+`Total: 25.5 hours`
 
 \* Left side battery first
 \** Left side drained during the night?
+
