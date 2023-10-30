@@ -117,10 +117,31 @@ I'm still leaving this test in
 | 2023-10-29 | 01:30 | Off           | 29% / 36%\*   |
 | 2023-10-29 | 17:00 | On            | 29% / 36%\*   |
 | 2023-10-29 | 22:00 | Off           | 22% / 29%\*   |
-| 2023-10-29 | 09:00 | Battery check | 15% / 29%\**  |
+| 2023-10-30 | 09:00 | Battery check | 15% / 29%\**  |
 
 `Total: 25.5 hours`
 
 \* Left side battery first
 \** Left side drained during the night?
+
+---
+
+## Fourth test
+
+#### Settings
+
+| Name               | Value |
+| ------------------ | ----- |
+| Mode               | BT    |
+| LED brightness     | 10%   |
+| LED timeout        | Never |
+| Layer change pulse | On    |
+| RF coverage        | Low\* |
+| Firmware           | 1.1.0 |
+
+\* This should not affect BT connections
+
+| Date       | Time  | Event         | Battery level |
+| ---------- | ----- | ------------- | ------------- |
+| 2023-10-30 | 17:00 | On            | 100%          |
 
