@@ -147,4 +147,8 @@ I'm still leaving this test in
 | 2023-10-30 | 21:00 | Off           | 100%          |
 | 2023-10-31 | 10:00 | On            | 100%          |
 | 2023-10-31 | 16:00 | Off           | 90%           |
+| 2023-11-01 | 10:00 | On            | 59%\*         |
+
+\* The battery seems to drain when neuron is connected to the base,  
+    and even if the keyboard is switched off
 
