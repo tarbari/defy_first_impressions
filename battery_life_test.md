@@ -88,13 +88,13 @@ Turned all LEDs to color black, except for one key on each side to keep track of
 It seems the battery was not fully charged when I began this test.
 
 Normally I make sure the battery is full by plugging the keyboard in wired,
-check battery level in Bazecor, force read battery level and make sure it is 
-still 100%. After this I close Bazecor, unplug Neuron, make sure the wireless 
+check battery level in Bazecor, force read battery level and make sure it is
+still 100%. After this I close Bazecor, unplug Neuron, make sure the wireless
 buttons are off, plug Neuron, start Bazecor, and read the battery levels again.
 I might have failed to do that this time.
 
 I'm still leaving this test in
-``` 
+```
 
 #### Settings
 
@@ -117,12 +117,12 @@ I'm still leaving this test in
 | 2023-10-29 | 01:30 | Off           | 29% / 36%\*   |
 | 2023-10-29 | 17:00 | On            | 29% / 36%\*   |
 | 2023-10-29 | 22:00 | Off           | 22% / 29%\*   |
-| 2023-10-30 | 09:00 | Battery check | 15% / 29%\**  |
+| 2023-10-30 | 09:00 | Battery check | 15% / 29%\*\* |
 
 `Total: 25.5 hours`
 
 \* Left side battery first
-\** Left side drained during the night?
+\*\* Left side drained during the night?
 
 ---
 
@@ -141,15 +141,16 @@ I'm still leaving this test in
 
 \* This should not affect BT connections
 
-| Date       | Time  | Event         | Battery level |
-| ---------- | ----- | ------------- | ------------- |
-| 2023-10-30 | 17:00 | On            | 100%          |
-| 2023-10-30 | 21:00 | Off           | 100%          |
-| 2023-10-31 | 10:00 | On            | 100%          |
-| 2023-10-31 | 16:00 | Off           | 90%           |
-| 2023-11-01 | 10:00 | On            | 59%\*         |
-| 2023-11-01 | 15:00 | Off           | 37% / 47%     |
+| Date       | Time  | Event | Battery level |
+| ---------- | ----- | ----- | ------------- |
+| 2023-10-30 | 17:00 | On    | 100%          |
+| 2023-10-30 | 21:00 | Off   | 100%          |
+| 2023-10-31 | 10:00 | On    | 100%          |
+| 2023-10-31 | 16:00 | Off   | 90%           |
+| 2023-11-01 | 10:00 | On    | 59%\*         |
+| 2023-11-01 | 15:00 | Off   | 37% / 47%     |
+| 2023-11-01 | 17:30 | On    | 37% / 47%     |
+| 2023-11-01 | 21:30 | Off   | 37% / 47%     |
 
 \* The battery seems to drain when neuron is connected to the base,  
-    and even if the keyboard is switched off
-
+ and even if the keyboard is switched off
