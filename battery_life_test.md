@@ -141,16 +141,20 @@ I'm still leaving this test in
 
 \* This should not affect BT connections
 
-| Date       | Time  | Event | Battery level |
-| ---------- | ----- | ----- | ------------- |
-| 2023-10-30 | 17:00 | On    | 100%          |
-| 2023-10-30 | 21:00 | Off   | 100%          |
-| 2023-10-31 | 10:00 | On    | 100%          |
-| 2023-10-31 | 16:00 | Off   | 90%           |
-| 2023-11-01 | 10:00 | On    | 59%\*         |
-| 2023-11-01 | 15:00 | Off   | 37% / 47%     |
-| 2023-11-01 | 17:30 | On    | 37% / 47%     |
-| 2023-11-01 | 21:30 | Off   | 37% / 47%     |
+| Date       | Time  | Event | Battery level  |
+| ---------- | ----- | ----- | -------------- |
+| 2023-10-30 | 17:00 | On    | 100%           |
+| 2023-10-30 | 21:00 | Off   | 100%           |
+| 2023-10-31 | 10:00 | On    | 100%           |
+| 2023-10-31 | 16:00 | Off   | 90%            |
+| 2023-11-01 | 10:00 | On    | 59%\*          |
+| 2023-11-01 | 15:00 | Off   | 37% / 47%      |
+| 2023-11-01 | 17:30 | On    | 37% / 47%      |
+| 2023-11-01 | 21:30 | Off   | 37% / 47%      |
+| 2023-11-02 | 16:00 | On    | 37% / 37%      |
+| 2023-11-02 | 21:30 | Off   | 37% / 37%      |
+| 2023-11-03 | 08:30 | On    | 37% / 37% \*\* |
 
 \* The battery seems to drain when neuron is connected to the base,  
  and even if the keyboard is switched off
+\*\* Left the neuron attached in the left base again, but no draining occured
