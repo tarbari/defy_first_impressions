@@ -156,6 +156,30 @@ I'm still leaving this test in
 | 2023-11-03 | 08:30 | On    | 37% / 37% \*\* |
 | 2023-11-03 | 17:00 | Off   | 15% / 27%      |
 
+`Total: 33 hours`
+
 \* The battery seems to drain when neuron is connected to the base,  
  and even if the keyboard is switched off
 \*\* Left the neuron attached in the left base again, but no draining occured
+
+---
+
+## Fifth test
+
+#### Settings
+
+| Name               | Value |
+| ------------------ | ----- |
+| Mode               | BT    |
+| LED brightness     | 10%   |
+| LED timeout        | Never |
+| Layer change pulse | On    |
+| RF coverage        | Low\* |
+| Firmware           | 1.1.0 |
+
+\* This should not affect BT connections
+
+| Date       | Time  | Event | Battery level |
+| ---------- | ----- | ----- | ------------- |
+| 2023-11-04 | 11:30 | On    | 100%          |
+| 2023-11-05 | 03:00 | Off   | 47%           |
