@@ -193,3 +193,26 @@ I'm still leaving this test in
 | 2023-11-07 | 17:00 | Off   | 19%           |
 
 `Total: 40.5 hours`
+
+---
+
+## Sixth test
+
+#### Settings
+
+| Name               | Value     |
+| ------------------ | --------- |
+| Mode               | RF        |
+| LED brightness     | 5%        |
+| LED timeout        | 10min     |
+| True sleep         | 30min*    |
+| Layer change pulse | Off       |
+| RF coverage        | Low       |
+| Firmware           | 1.2.5-rc2 |
+
+\* Going to keep the keyboard on when not in use
+
+
+| Date       | Time  | Event | Battery level |
+| ---------- | ----- | ----- | ------------- |
+| 2024-01-08 | 08:00 | On    | 100%          |
