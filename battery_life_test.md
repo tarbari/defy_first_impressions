@@ -216,3 +216,5 @@ I'm still leaving this test in
 | Date       | Time  | Event | Battery level |
 | ---------- | ----- | ----- | ------------- |
 | 2024-01-08 | 08:00 | On    | 100%          |
+| 2024-01-08 | 16:00 | Stop  | 100%          |
+
